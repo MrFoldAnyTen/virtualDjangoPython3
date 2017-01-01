@@ -7,5 +7,10 @@
 ###python --version
 ##git checkout -b "branchname"
 ###  edit
-##git add -A
+###  python manage.py shell
+### python manage.py runserver
+### http://localhost:8000/polls/
+##git add --all :/
 ##git commit -m "made a change "
+##git status
+##git push -u origin branchname
