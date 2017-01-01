@@ -8,6 +8,7 @@
 ##git checkout -b "branchname"
 ###  edit
 ###  python manage.py shell
+### cd mysite
 ### python manage.py runserver
 ### http://localhost:8000/polls/
 ##git add --all :/
