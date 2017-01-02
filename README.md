@@ -11,7 +11,7 @@
 ### cd mysite
 ### python manage.py runserver
 ### http://localhost:8000/polls/
-##git add --all :/
+##git add --all :/       //  to add the parent dir
 ##git commit -m "made a change "
 ##git status
 ##git push -u origin branchname
